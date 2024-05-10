@@ -1,0 +1,27 @@
+:root {
+  --color-dark-pink: #ba4270;
+  --color-water-white: #fbfcfe;
+  --color-san-juan-blue: #36536b;
+  --color-mirage-blue: #1b262f;
+  --color-charm-pink: #da6d97;
+  --color-light-san-juan-blue: #6c8294;
+
+  --font-serif: "DM Serif Display", serif;
+  --font-sans: "Public Sans", sans-serif;
+
+  --fs-h1-large: 4.5rem;
+  --fs-h1-small: 3.5rem;
+  --fs-h2: 3rem;
+  --fs-h3-large: 2rem;
+  --fs-h3-small: 1.125rem;
+  --fs-h4: 1.5rem;
+  --fs-body: 0.9375rem;
+
+  --lh-body: 1.75rem;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
